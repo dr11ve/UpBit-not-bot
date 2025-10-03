@@ -5,4 +5,4 @@ TG_CHAT_ID=YOUR_CHAT_ID (u can get from father bot via TG)
 POLL_INTERVAL_SEC=60
 FILTER_MARKETS=KRW,USDT
 
-Note, u need to create your first at first to launch the script.
+Note, u need to create your Telgeram bot first at first to launch the script. Create your Bot via https://t.me/BotFather
